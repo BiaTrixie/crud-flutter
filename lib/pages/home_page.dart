@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                       // Update button
                       IconButton(
                         onPressed: () => openTaskBox(docID: docID),
-                        icon: const Icon(Icons.settings),
+                        icon: const Icon(Icons.edit),
                       ),
                       // Delete button
                       IconButton(
