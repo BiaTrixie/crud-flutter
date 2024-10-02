@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938061275492",
+    "project_id": "faxinex-31894",
+    "storage_bucket": "faxinex-31894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938061275492:android:9bcf4e28e7a1148db41a71",
+        "android_client_info": {
+          "package_name": "com.faxinex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFBjK2udnbZG1YOuTSgLiQ8ZdmI1vTeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
